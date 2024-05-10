@@ -1,0 +1,4 @@
+dataset/train/data
+dataset/test/data
+dataset/train/labels.xlsx
+dataset/test/labels_spacecraft.xlsx
