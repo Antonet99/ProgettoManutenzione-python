@@ -1,3 +1,4 @@
-/dataset
+/dataset/test/data
+/dataset/train/data
 **/.DS_Store
 /trained_models
